@@ -4,7 +4,7 @@
 
 
 <h4>Functionality : </h4>
-<p>User Doesn't need real dice. By this app he/she will get dice and can roll it.
+<p>User Doesn't need real dice. By this app he/she will get two dice and can roll it anytime anywhere!!!.
 </p>
 
 
